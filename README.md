@@ -8,9 +8,9 @@ A **production-style data engineering pipeline** that fetches real-time Bitcoin 
 
 This project demonstrates how to design and implement a **real-time data pipeline** using modern data engineering tools and best practices such as orchestration, idempotent tasks, structured logging, and fault tolerance.
 
----
+[Architecture](airflow.png)---
 ## 🏗️ Architecture
-[Architecture](airflow.png)
+
 **Flow:**
 
 CoinGecko API  
